@@ -1,0 +1,532 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Venture Reads</title>
+    <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Lustria" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <style type="text/css">
+    body, h6, h5 {
+      font-family:  "Montserrat";
+    }
+    .thumbnail {
+          box-shadow: none !important;
+          opacity: 0.4 ;
+            width: 100%;
+            margin-bottom: 5px;
+    }
+    img:hover {
+      opacity: 0.95 !important;
+    }
+    .h6 {
+      margin-left:  5px !important;
+    }
+  
+    </style>
+  </head>
+  <body>
+  
+
+          
+            <div class="row column" style="margin-bottom: 60px;">
+            <h5 style="position:fixed; top:0px; margin:auto; padding-bottom: 10px; padding-top: 10px;z-index:100000; width:100%; background: white;"> <a href="#publications">Publications</a> | Newsletters | Youtube Channels | Podcasts | Misc.</h5>
+              <img style="margin-top: 50px" src="https://i.imgsafe.org/083b90644a.png">
+              <p class="lead">The best resources created by VCs/Firms and Angels</p>
+              
+            </div>
+
+    
+       <div class="row small-up-2 medium-up-3 large-up-4">
+                          <div class="column">
+              <h5 id="publications">📰 Blog Posts - Consumer Perspectives</h5>
+              </div>
+            </div>
+          <div class="row small-up-2 medium-up-3 large-up-4">
+
+  
+            <div class="column">
+              <a href="http://www.creandum.com/news/"><img class="thumbnail" src="https://ton.twitter.com/1.1/ton/data/dm/817903838510403588/817903832323784704/1GJtj719.jpg"></a>
+              <a href="http://www.creandum.com/news/"><h6>Creandum</h6></a>
+            </div>
+
+            
+            <div class="column">
+              <a href="https://medium.com/accel-insights"><img class="thumbnail" src="https://ton.twitter.com/1.1/ton/data/dm/817903838510403588/817903832323784704/1GJtj719.jpg"></a>
+              <a href="https://medium.com/accel-insights"><h6>Accel Insights
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://www.battery.com/powered/"><img class="thumbnail" src="https://ton.twitter.com/1.1/ton/data/dm/817903838510403588/817903832323784704/1GJtj719.jpg"></a>
+              <a href="https://www.battery.com/powered/"><h6>Venture + Growth
+</h6></a>
+            </div>
+            <div class="column">
+              <a href="https://trueventures.com/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/800379371538124800/kXwKsugP.jpg"></a>
+              <a href="https://trueventures.com/blog/"><h6>The True Blog
+</h6></a>
+            </div>
+            <div class="column">
+              <a href="https://medium.com/kima-ventures"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/643736370612174848/-8W0btqc.png"></a>
+              <a href="https://medium.com/kima-ventures"><h6>Kima Ventures
+</h6></a>
+            </div>
+            <div class="column">
+              <a href="https://sosv.com/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/674663578129969152/tXJNyJu4.png"></a>
+              <a href="https://sosv.com/blog/"><h6>SOSV Blog
+</h6></a>
+            </div>
+              <div class="column">
+              <a href="https://medium.com/entrepreneur-first"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/473810645125591042/kF8QlZqp.png"></a>
+              <a href="https://medium.com/entrepreneur-first"><h6>ef.
+</h6></a>
+            </div>
+
+           <div class="column">
+              <a href="https://knowledge.sparkcapital.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/2401508657/56460ykesfesn167ccck.jpeg"></a>
+              <a href="https://knowledge.sparkcapital.com/"><h6> Spark Capital Collection
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="http://foundersfund.com/anatomy-of-next/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/557695965742628864/_wsa3ntD.png"></a>
+              <a href="http://foundersfund.com/anatomy-of-next/"><h6> Anatomy of Next by Founders Fund
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://news.greylock.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/488805819744391168/WtmSJ00E.png"></a>
+              <a href="https://news.greylock.com/"><h6> Greylock Perspectives
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://medium.com/lerer-hippeau-ventures"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/705432680893001728/suoTNo3P.jpg"></a>
+              <a href="https://medium.com/lerer-hippeau-ventures"><h6> Lerer Hippeau Blog
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="http://www.collaborativefund.com/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/817294741830299649/_ZwvNY0h.jpg"></a>
+              <a href="http://www.collaborativefund.com/blog/"><h6> Collaborative Fund Blog
+</h6></a>
+            </div>
+
+                <div class="column">
+              <a href="http://www.insightpartners.com/ideas/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/526460373298196480/vzgXYO-F.png"></a>
+              <a href="http://www.insightpartners.com/ideas/blog/"><h6> Insight Venture Partners Blog
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="https://medium.com/ffvc-pov"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/758050083753582592/GYlg6Kij.jpg"></a>
+              <a href="https://medium.com/ffvc-pov"><h6> FFVC P.O.V. 
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://www.qualcommventures.com/whats-happening"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/753979282251141120/zMgo_lHh.jpg"></a>
+              <a href="https://www.qualcommventures.com/whats-happening"><h6> Qualcomm Ventures Blog
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="http://www.madrona.com/news-views/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/484141972630687745/WgMtQ6dE.jpeg"></a>
+              <a href="http://www.madrona.com/news-views/"><h6> Madrona Venture Group Blog
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.rre.com/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/740264154129256448/oot4TlRA.jpg"></a>
+              <a href="http://www.rre.com/blog/"><h6> RRE Ventures Blog
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="https://medium.com/@FoundationCap"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/2557210627/t67z23aw0rlyrir3i6da.jpeg"></a>
+              <a href="https://medium.com/@FoundationCap"><h6> Foundation Capital Blog
+</h6></a>
+            </div>
+
+                <div class="column">
+              <a href="https://blog.revolution.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/378800000575525480/a9f1d061211d7bb78b93fa0433a8f852.jpeg"></a>
+              <a href="https://blog.revolution.com/"><h6> Revolution Blog
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="http://www.ciscoinvestments.com/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/378800000821544540/ee97fed59104bf4eba8f44ac0ffbd615.png"></a>
+              <a href="http://www.ciscoinvestments.com/blog/"><h6> Cisco Investments Blog
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.notioncapital.com/category/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/2449521637/erbpzifug8y2nzea90j3.jpeg"></a>
+              <a href="http://www.notioncapital.com/category/blog/"><h6> Notion Capital
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.khoslaventures.com/blog/all"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/574984924689641472/fOrCU69C.jpeg"></a>
+              <a href="http://www.khoslaventures.com/blog/all"><h6>Khosla Ventures
+</h6></a>
+            </div>
+
+<div class="column">
+              <a href="https://medium.com/at-the-front-line"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/809419446490198016/AWMnNnXk.jpg"></a>
+              <a href="https://medium.com/at-the-front-line"><h6>At the Front Line 
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://medium.com/point-nine-news"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/654221106027581440/FCJrSQyF.png"></a>
+              <a href="https://medium.com/point-nine-news"><h6>Point Nine Land
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://venturehacks.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/1825079270/icon_al_twitter_02__1_.png"></a>
+              <a href="http://venturehacks.com/"><h6>Venture Hacks by AngelList
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="https://insights.project-a.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/1775325585/tw-project-a-com.png"></a>
+              <a href="https://insights.project-a.com/"><h6>Project A Insights
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://insights.upfront.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/378800000572470926/311e752aca137c11ae16b10ab3d791a6.png"></a>
+              <a href="https://insights.upfront.com/"><h6>Upfront Insights
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="https://designerfund.com/blog"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/2698920274/641d4721769d26383a6cbfced5d0a320.png"></a>
+              <a href="https://designerfund.com/blog"><h6>Designer Fund Blog
+</h6></a>
+            </div>
+
+                 <div class="column">
+              <a href="https://medium.com/paua-insights"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/744841622941241345/Zi2QgyiL.jpg"></a>
+              <a href="https://medium.com/paua-insights"><h6>Inside the Paua
+</h6></a>
+            </div>
+
+               <div class="column">
+              <a href="http://www.mmcventures.com/category/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/804630834699468800/P9y6Gwu3.jpg"></a>
+              <a href="http://www.mmcventures.com/category/blog/"><h6>MMC Ventures Blog
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.balderton.com/newsfeed/news"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/1694997496/untitled.png"></a>
+              <a href="http://www.balderton.com/newsfeed/news"><h6>Balderton Capital Blog
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://medium.com/@BessemerVP"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/326676039/BVP.jpg"></a>
+              <a href="https://medium.com/@BessemerVP"><h6>Think with Bessemer Venture Partners
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://medium.com/@lux_capital"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/728194457632395264/rwtxA-v4.jpg"></a>
+              <a href="https://medium.com/@lux_capital"><h6>The Lux Capital Blog
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://library.gv.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/673653383065034753/JYgdBfuh.png"></a>
+              <a href="https://library.gv.com/"><h6>GV Library
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="http://www.venrock.com/insights/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/459782547568742400/Ik4RU75d.png"></a>
+              <a href="http://www.venrock.com/insights/"><h6>Venrock Insights
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="http://www.kpcb.com/blog/type/article"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/615586435521843200/gyYfKiks.png"></a>
+              <a href="http://www.kpcb.com/blog/type/article"><h6>Kleiner Perkins Blog
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://medium.com/lightspeed-venture-partners"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/2653049051/68013db1dd8ce632c07c1a1a215be176.png"></a>
+              <a href="https://medium.com/lightspeed-venture-partners"><h6>Lightspeed Venture Partners
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="https://medium.com/@dfjvc"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/378800000856024173/c2eb9d5022013f22a4ca1d559bdea42f.jpeg"></a>
+              <a href="https://medium.com/@dfjvc"><h6>DFJ Blog
+</h6></a>
+            </div>
+
+                <div class="column">
+              <a href="http://beepartners.vc/buzz/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/492399234428047360/Z1-1zXQu.jpeg"></a>
+              <a href="http://beepartners.vc/buzz/"><h6>Buzz by Bee Partners
+
+</h6></a>
+            </div>
+
+               <div class="column">
+              <a href="https://medium.com/@TCV"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/769306844087005184/4BUDLDik.jpg"></a>
+              <a href="https://medium.com/@TCV"><h6>TCV Blog
+
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="http://www.primary.vc/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/570587121073676288/kJ5-obnM.jpeg"></a>
+              <a href="http://www.primary.vc/blog/"><h6>Primary VC Blog
+
+              </h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://www.nvp.com/blog/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/555110515328819200/vsAzB0HH.jpeg"></a>
+              <a href="https://www.nvp.com/blog/"><h6>Norwest Ventures Partners Blog
+              </h6></a>
+            </div>
+
+
+</div>
+
+<hr>
+
+    <div class="row small-up-2 medium-up-3 large-up-4">
+                          <div class="column">
+              <h5 style="margin-top: 15px;">✉️ Newsletters</h5>
+              </div>
+            </div>
+
+
+          <div class="row small-up-2 medium-up-3 large-up-4">
+
+
+            <div class="column">
+              <a href="http://www.intelcapital.com/news/subscribe/index.html"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/719944457815109632/eokk7aUZ.jpg"></a>
+              <a href="http://www.intelcapital.com/news/subscribe/index.html"><h6>Intel Capital News + Insights
+</h6></a>
+            </div>
+<div class="column">
+              <a href="http://s23p.us10.list-manage.com/subscribe?u=d7f0f45160075006b25756cd0&id=159d546edd"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/651210970136637440/0-XZfKUN.png"></a>
+              <a href="http://s23p.us10.list-manage.com/subscribe?u=d7f0f45160075006b25756cd0&id=159d546edd"><h6>Social Capital Snippets.
+</h6></a>
+            </div>
+
+<div class="column">
+              <a href="http://a16z.us7.list-manage.com/subscribe/?u=35c671b34bb404149166bf755&id=6da14709cd"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/487366765106565120/jGvHRW6p.png"></a>
+              <a href="http://a16z.us7.list-manage.com/subscribe/?u=35c671b34bb404149166bf755&id=6da14709cd"><h6>The a16z Newsletter
+</h6></a>
+            </div>
+ 
+            
+          </div>
+         
+
+          <hr>
+
+
+
+               <div class="row small-up-2 medium-up-3 large-up-4">
+                          <div class="column">
+              <h5>📈 Misc.</h5>
+              </div>
+            </div>
+          <div class="row small-up-2 medium-up-3 large-up-4">
+
+          <div class="column">
+              <a href="http://500.co/distrosnack"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/760219502910910465/2w8KblB7.jpg"></a>
+              <a href="http://500.co/distrosnack"><h6>DistroSnack by 500 Startups </h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.ycombinator.com/resources/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe.jpg"></a>
+              <a href="http://www.ycombinator.com/resources/"><h6>Startup Library by YCombinator</h6></a>
+            </div>
+
+            
+            <div class="column">
+              <a href="http://lowercasealpha.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/784344384/ProprietorImage.jpg"></a>
+              <a href="http://lowercasealpha.com/"><h6>Lowercase Alpha
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.atomico.com/state-of-european-tech/2016"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/619053654612557824/29PburZY.png"></a>
+              <a href="http://www.atomico.com/state-of-european-tech/2016"><h6>The State of European Tech by Atomico
+
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.kpcb.com/internet-trends"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/615586435521843200/gyYfKiks.png"></a>
+              <a href="http://www.kpcb.com/internet-trends"><h6>KPCB Internet Trends
+
+</h6></a>
+            </div>
+
+                     <div class="column">
+              <a href="http://www.sparkcapital.com/sessions/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/2401508657/56460ykesfesn167ccck.jpeg"></a>
+              <a href="http://www.sparkcapital.com/sessions/"><h6>Spark Capital Sessions
+
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="https://www.sequoiacap.com/build/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/716120352208789504/f0yAObUS.jpg"></a>
+              <a href="https://www.sequoiacap.com/build/"><h6>Sequoia Build
+
+              </h6></a>
+            </div>
+
+
+
+        
+
+
+          
+
+<hr>
+
+        
+          </div>
+
+          <div class="row small-up-2 medium-up-3 large-up-4">
+                          <div class="column">
+              <h5>🎤 Podcasts</h5>
+              </div>
+            </div>
+          <div class="row small-up-2 medium-up-3 large-up-4">
+
+          <div class="column">
+              <a href="http://thisweekinstartups.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/687451031001665536/w8VBdwN4.png"></a>
+              <a href="http://thisweekinstartups.com/"><h6>This Week in Startups</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="http://www.thetwentyminutevc.com/"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/635770552695824384/2CgQ4F2N.jpg"></a>
+              <a href="http://www.thetwentyminutevc.com/"><h6>The Twenty Minute VC</h6></a>
+            </div>
+
+            
+            <div class="column">
+              <a href="https://soundcloud.com/a16z"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/487366765106565120/jGvHRW6p.png"></a>
+              <a href="https://soundcloud.com/a16z"><h6>The a16z Podcast
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="https://soundcloud.com/user-446966464"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/459782547568742400/Ik4RU75d.png"></a>
+              <a href="https://soundcloud.com/user-446966464"><h6>Venrock Running Through Walls
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://soundcloud.com/venturedpodcast"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/615586435521843200/gyYfKiks.png"></a>
+              <a href="https://soundcloud.com/venturedpodcast"><h6>Ventured by KPCB
+</h6></a>
+            </div>
+
+            <hr>
+            </div>
+
+               <div class="row small-up-2 medium-up-3 large-up-4">
+                          <div class="column">
+              <h5>🎬 Youtube Channels</h5>
+              </div>
+            </div>
+          <div class="row small-up-2 medium-up-3 large-up-4">
+
+          <div class="column">
+              <a href="https://www.youtube.com/user/khoslaventures/videos"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/687451031001665536/w8VBdwN4.png"></a>
+              <a href="https://www.youtube.com/user/khoslaventures/videos"><h6>Khosla Ventures</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://www.youtube.com/user/BothsidesTV/videos"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/635770552695824384/2CgQ4F2N.jpg"></a>
+              <a href="https://www.youtube.com/user/BothsidesTV/videos"><h6>Bothsides TV</h6></a>
+            </div>
+
+            
+            <div class="column">
+              <a href="https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/487366765106565120/jGvHRW6p.png"></a>
+              <a href="https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg"><h6>Y Combinator
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://www.youtube.com/user/greylockpartners/videos"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/487366765106565120/jGvHRW6p.png"></a>
+              <a href="https://www.youtube.com/user/greylockpartners/videos"><h6>Greylock Partners
+</h6></a>
+            </div>
+
+            <div class="column">
+              <a href="https://www.youtube.com/user/LaunchConf/videos"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/487366765106565120/jGvHRW6p.png"></a>
+              <a href="https://www.youtube.com/user/LaunchConf/videos"><h6>Launch Festival
+</h6></a>
+            </div>
+
+               <div class="column">
+              <a href="https://www.youtube.com/user/upfrontventures/videos"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/487366765106565120/jGvHRW6p.png"></a>
+              <a href="https://www.youtube.com/user/upfrontventures/videos"><h6>Upfront Ventures
+</h6></a>
+            </div>
+
+              <div class="column">
+              <a href="https://www.youtube.com/user/500startups/videos"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/760219502910910465/2w8KblB7.jpg"></a>
+              <a href="https://www.youtube.com/user/500startups/videos"><h6>500 Startups
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="https://www.youtube.com/user/FirstRoundCapital/videos"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/760219502910910465/2w8KblB7.jpg"></a>
+              <a href="https://www.youtube.com/user/FirstRoundCapital/videos"><h6>First Round Capital
+</h6></a>
+            </div>
+
+             <div class="column">
+              <a href="https://www.youtube.com/user/InsightPartners"><img class="thumbnail" src="https://pbs.twimg.com/profile_images/526460373298196480/vzgXYO-F.png"></a>
+              <a href="https://www.youtube.com/user/InsightPartners"><h6>Insight Venture Partners
+</h6></a>
+            </div>
+
+          
+
+                 
+
+
+         
+        </div>
+           <footer style="margin-top: 17px; text-align: center; padding-bottom: 4px">By <a href="twitter.com/nikvimal"> Nikhil Vimal. </a></footer>
+
+      </div>
+
+    </div>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-89996411-1', 'auto');
+  ga('send', 'pageview');
+</script>    
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
